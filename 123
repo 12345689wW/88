@@ -1,0 +1,6 @@
+<?php
+$ydbj = "R";
+$ydbj = 365;
+define("PI",3.1415926,true);
+$s = $R*$R*PI;
+echo $s;
